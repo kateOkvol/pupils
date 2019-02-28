@@ -1,5 +1,5 @@
 # pupils
-The project contains packages for working with students.
+The project contains packages for working with pupils.
 
 Humanity package will help to calculate such parameters as the size of a person’s clothes, body mass index.
 
